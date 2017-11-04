@@ -1,7 +1,7 @@
 # BAW-MVC-Case-Study
 A sample web page to demonstrate the adoption of the BAW-MVC style.
-The link to the research paper will be published soon.
-
+<br><br>The link to the research paper will be published soon.
+<br><br><br>
 Figure 1: The BAW-MVC style
 <br><img src="https://drive.google.com/uc?id=0BwpGX-zPuvTna29kV3ZPWTBsbnM" width="700px">
 <br><br><br>
